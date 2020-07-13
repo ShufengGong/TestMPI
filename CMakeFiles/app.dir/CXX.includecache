@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gongsf/CLionProjects/TestMPI/app.cc
+kernel.h
+/home/gongsf/CLionProjects/TestMPI/kernel.h
+iostream
+-
+
+/home/gongsf/CLionProjects/TestMPI/kernel.h
+map
+-
+iostream
+-
+

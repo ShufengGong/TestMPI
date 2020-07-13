@@ -1,0 +1,4 @@
+/home/gongsf/CLionProjects/TestMPI/CMakeFiles/rebuild_cache.dir
+/home/gongsf/CLionProjects/TestMPI/CMakeFiles/edit_cache.dir
+/home/gongsf/CLionProjects/TestMPI/CMakeFiles/TestMPI.dir
+/home/gongsf/CLionProjects/TestMPI/CMakeFiles/app.dir
